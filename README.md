@@ -1,2 +1,2 @@
-ckeditor_bootstrap_styles
+Add bootstrap styles to ckeditor
 =========================
